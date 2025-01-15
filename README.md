@@ -11,8 +11,8 @@ My current research interests lie in Multimodal AI and Large Language Models.
 [WEBPAGE](https://use08174.github.io/SuminShim/)
 
 ### 🔭 I'm currently..
-  - Yonsei Univ. Multimodal AI Lab `2023.09 ~`
-  - Prometheus AI Student Club President `2024. 03 ~`
+  - Yonsei Univ. Multimodal AI Lab [MIRLAB](https://mirlab.yonsei.ac.kr/) `2023.09 ~`
+  - [Prometheus](https://prometheus-ai.net/) AI Student Club President  `2024. 03 ~`
 
 
 ## :mailbox_with_mail: Contacts
