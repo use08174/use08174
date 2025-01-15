@@ -1,10 +1,11 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuse08174&count_bg=%23FFD7F4&title_bg=%23FF8ACD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 Hello, I'm Sumin Shim! 😊
 
 I am a bachelor's student at Yonsei University and have been working as a research intern in MIRLAB (Multimodal AI Lab) since October 2023.
 
 My current research interests lie in Multimodal AI and Large Language Models.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuse08174&count_bg=%23FFD7F4&title_bg=%23FF8ACD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 😄 My Webpage
 [WEBPAGE](https://use08174.github.io/SuminShim/)
