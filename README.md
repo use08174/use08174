@@ -1,19 +1,20 @@
-# SHIM-SUMIN 😊
+Hello, I'm Sumin Shim! 😊
+
+I am a bachelor's student at Yonsei University and have been working as a research intern in MIRLAB (Multimodal AI Lab) since October 2023.
+
+My current research interests lie in Multimodal AI and Large Language Models.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuse08174&count_bg=%23FFD7F4&title_bg=%23FF8ACD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### 😄 My Webpage
+[WEBPAGE](https://use08174.github.io/SuminShim/)
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
-# My Webpage
-https://use08174.github.io/SuminShim/
+### 🔭 I'm currently..
+  - Yonsei Univ. Multimodal AI Lab `2023.09 ~`
+  - Prometheus AI Student Club President `2024. 03 ~`
 
 
-
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:use08174@yonsei.ac.kr)](mailto:use08174@yonsei.ac.kr)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:use08174@naver.com)](mailto:use08174@naver.com)
 <!--
