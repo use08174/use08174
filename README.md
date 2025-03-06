@@ -13,7 +13,7 @@ My current research interests lie in Multimodal AI and Large Language Models.
 ### 🔭 I'm currently..
   - Majoring Computer Science
   - Yonsei Univ. Multimodal AI Lab [MIRLAB](https://mirlab.yonsei.ac.kr/) `2023.09 ~`
-  - [Prometheus](https://prometheus-ai.net/) AI Student Club President  `2024.03 ~`
+  - [Prometheus](https://prometheus-ai.net/) AI Student Club President  `2024.03 ~ 2025.02`
 
 
 ## :mailbox_with_mail: Contacts
