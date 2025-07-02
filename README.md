@@ -3,7 +3,7 @@
 
 Hello, I'm Sumin Shim! 😊
 
-I am a bachelor's student at Yonsei University and have been working as a research intern in MIRLAB (Multimodal AI Lab) since October 2023.
+I am a bachelor's student at Yonsei University and working as research intern at OptAI.
 
 My current research interests lie in Multimodal AI and Large Language Models.
 
@@ -12,7 +12,8 @@ My current research interests lie in Multimodal AI and Large Language Models.
 
 ### 🔭 I'm currently..
   - Majoring Computer Science
-  - Yonsei Univ. Multimodal AI Lab [MIRLAB](https://mirlab.yonsei.ac.kr/) `2023.09 ~`
+  - Research Intern at OptAI [OPTAI]() `2025.07 ~ Current`
+  - Yonsei Univ. Multimodal AI Lab [MIRLAB](https://mirlab.yonsei.ac.kr/) `2023.09 ~ 2025.06`
   - [Prometheus](https://prometheus-ai.net/) AI Student Club President  `2024.03 ~ 2025.02`
 
 
