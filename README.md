@@ -3,7 +3,7 @@ Hello, I'm Sumin Shim! 😊
 
 I am a bachelor's student at Yonsei University and working as research intern at OptAI.
 
-My current research interests lie in Multimodal AI and Large Language Models.
+My current research interests are Multimodal AI and Large Language Models.
 
 ### 😄 My Webpage
 [WEBPAGE](https://use08174.github.io/SuminShim/)
