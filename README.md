@@ -10,7 +10,7 @@ My current research interests are Multimodal AI and Large Language Models.
 
 ### 🔭 I'm currently..
   - Majoring Computer Science
-  - Research Intern at OptAI [OPTAI]() `2025.07 ~ Current`
+  - Research Intern at OptAI [OPTAI]() `2025.07 ~ 2025.08`
   - Yonsei Univ. Multimodal AI Lab [MIRLAB](https://mirlab.yonsei.ac.kr/) Research Intern `2023.09 ~ 2025.06`
   - [Prometheus](https://prometheus-ai.net/) AI Student Club President  `2024.03 ~ 2025.02`
 
