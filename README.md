@@ -1,19 +1,21 @@
-
 Hello, I'm Sumin Shim! 😊
-
-I am a bachelor's student at Yonsei University and working as research intern at OptAI.
 
 My current research interests are Multimodal AI and Large Language Models.
 
 ### 😄 My Webpage
+
 [WEBPAGE](https://use08174.github.io/SuminShim/)
 
-### 🔭 I'm currently..
-  - Majoring Computer Science
-  - Research Intern at OptAI [OPTAI]() `2025.07 ~ 2025.08`
-  - Yonsei Univ. Multimodal AI Lab [MIRLAB](https://mirlab.yonsei.ac.kr/) Research Intern `2023.09 ~ 2025.06`
-  - [Prometheus](https://prometheus-ai.net/) AI Student Club President  `2024.03 ~ 2025.02`
+### 🎓 Education
 
+- **Carnegie Mellon University** — Incoming M.S. student in Artificial Intelligence Engineering, ECE `2026.09 ~`
+- **Yonsei University** — B.S. in Computer Science `2021.03 ~ 2026.02`
+
+### 💼 Experience
+
+- **OptAI** — Research Intern `2025.07 ~ 2025.08`
+- **Yonsei Univ. Multimodal AI Lab (MIRLAB)** — Research Intern `2023.09 ~ 2025.06`
+- **Prometheus AI Student Club** — President `2024.03 ~ 2025.02`
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:use08174@yonsei.ac.kr)](mailto:use08174@yonsei.ac.kr)
