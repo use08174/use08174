@@ -1,6 +1,6 @@
 Hello, I'm Sumin Shim! 😊
 
-My current research interests are Multimodal AI and Large Language Models.
+My current research interests are video generation and world models.
 
 ### 😄 My Webpage
 
