@@ -1,25 +1,26 @@
-Hello, I'm Sumin Shim! 😊
+Hello, I'm Sumin Shim! 👋
 
-My current research interests are video generation and world models.
+My research interests center on **Video Generation**, **World Models**, and **Multimodal AI**.
 
-### 😄 My Webpage
+### 🌐 Webpage
 
-[WEBPAGE](https://use08174.github.io/SuminShim/)
+[https://use08174.github.io/SuminShim/](https://use08174.github.io/SuminShim/)
 
 ### 🎓 Education
 
-- **Carnegie Mellon University** — Incoming M.S. student in Artificial Intelligence Engineering, ECE `2026.09 ~`
-- **Yonsei University** — B.S. in Computer Science `2021.03 ~ 2026.02`
+- **Carnegie Mellon University** — M.S. in Artificial Intelligence Engineering (ECE) `2026.08 ~ Present`
+- **Yonsei University** — B.S. in Computer Science and Engineering `2021.03 ~ 2026.02`
 
 ### 💼 Experience
 
-- **OptAI** — Research Intern `2025.07 ~ 2025.08`
-- **Yonsei Univ. Multimodal AI Lab (MIRLAB)** — Research Intern `2023.09 ~ 2025.06`
-- **Prometheus AI Student Club** — President `2024.03 ~ 2025.02`
+- **OptAI** — Research Intern (LLM Optimization Team) `2025.07 ~ 2025.08`
+- **Yonsei Univ. Multimodal AI Lab** — Undergraduate Researcher `2023.09 ~ 2025.06`
+- **Prometheus AI Student Club** — President `2024.03 ~ 2025.02` | Dev Lead `2023.03 ~ 2024.02`
 
-## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:use08174@yonsei.ac.kr)](mailto:use08174@yonsei.ac.kr)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:use08174@naver.com)](mailto:use08174@naver.com)
+## 📬 Contacts
+
+[![CMU Email](https://img.shields.io/badge/CMU_Email-C41230?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumins@andrew.cmu.edu)](mailto:sumins@andrew.cmu.edu)
+[![Yonsei Email](https://img.shields.io/badge/Yonsei_Email-00295B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:use08174@yonsei.ac.kr)](mailto:use08174@yonsei.ac.kr)
 <!--
 **use08174/use08174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
